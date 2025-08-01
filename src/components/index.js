@@ -1,0 +1,11 @@
+export { default as Alert } from './Alert';
+export { default as CanvasLoader } from './CanvasLoader';
+export { default as HomeInfo } from './HomeInfo';
+export { default as Intro } from './Intro';
+export { default as Loader } from './Loader';
+export { default as NavBar } from './NavBar';
+export { default as WrappedDetailSection } from './DetailCard';
+export { default as WrappedExperienceSection } from './Experience';
+export { default as WrappedTechSection } from './Tech';
+export { default as WrappedWorksSection } from './Works';
+export { default as WrappedFeedbacksSection } from './Feedbacks';

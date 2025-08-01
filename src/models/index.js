@@ -1,0 +1,9 @@
+export { default as Bird } from './bird';
+export { default as Fox } from './fox';
+export { default as Island } from './island';
+export { default as Plane } from './plane';
+export { default as Sky } from './sky';
+export { default as EarthCanvas } from './Earth';
+export { default as BallCanvas } from './Ball';
+export { default as ComputersCanvas } from './Computers';
+export { default as StarsCanvas } from './Stars';
