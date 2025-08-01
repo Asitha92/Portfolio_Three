@@ -14,6 +14,7 @@ function ProjectCard({
 	tags,
 	image,
 	source_code_link,
+	live_site_link,
 }) {
 	return (
 		<motion.div variants={fadeIn('up', 'spring', index * 0.5, 0.75)}>
@@ -49,6 +50,14 @@ function ProjectCard({
 				<div className="mt-5">
 					<h3 className="text-white font-bold text-[24px]">{name}</h3>
 					<p className="mt-2 text-[#aaa6c3] text-[14px]">{description}</p>
+				</div>
+				<div className="flex mt-1">
+					<div
+						onClick={() => window.open(live_site_link, '_blank')}
+						className="text-violet-400 text-[14px] cursor-pointer"
+					>
+						<p>Go to live application 🚀</p>
+					</div>
 				</div>
 
 				<div className="mt-4 flex flex-wrap gap-2">
@@ -124,6 +133,7 @@ ProjectCard.propTypes = {
 	).isRequired,
 	image: PropTypes.string.isRequired,
 	source_code_link: PropTypes.string.isRequired,
+	live_site_link: PropTypes.string.isRequired,
 };
 
 const WrappedWorksSection = SectionWrapper(Works, 'works');

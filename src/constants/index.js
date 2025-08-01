@@ -229,6 +229,7 @@ const projects = [
 		],
 		image: ecommerce,
 		source_code_link: 'https://github.com/Asitha92/ecommerce-mern-vercel',
+		live_site_link: 'https://ecommerce-mern-vercel-self.vercel.app/auth/signIn',
 	},
 	{
 		name: 'Portfolio Website',
@@ -253,6 +254,7 @@ const projects = [
 		],
 		image: portfolio_1,
 		source_code_link: 'https://github.com/Asitha92/Portfolio_Three',
+		live_site_link: 'https://portfolio-three-one-delta.vercel.app',
 	},
 	{
 		name: 'Node Pilot',
@@ -282,6 +284,7 @@ const projects = [
 		],
 		image: nodepilot,
 		source_code_link: 'https://github.com/Asitha92/NodePilot',
+		live_site_link: 'https://node-pilot-ten.vercel.app',
 	},
 ];
 
