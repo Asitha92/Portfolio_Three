@@ -115,7 +115,7 @@ const experiences = [
 		domain: 'Travel Insurance',
 		technologies: 'React.js, Next.js, Jaspersoft Studio, Java',
 		iconBg: '#383E56',
-		date: 'March 2024 - October 2024',
+		date: 'March 2024 - Current',
 		points: [
 			'Crafted 20+ customizable PDF templates using Jaspersoft Studio and Java, partnering with underwriters and QA teams to ensure compliance with regulatory standards, automating 60% of manual data entry for 15,000+ annual client transactions while achieving 100% audit-ready documentation and reducing post-release revisions by 40%.',
 			'Architected a reusable component library and established foundational page structures for a large-scale Next.js migration, accelerating frontend development velocity by 20% and ensuring adherence to modern best practices for scalability and maintainability. ',
