@@ -39,17 +39,17 @@ Please have look at live application
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/Asitha92/Portfolio_Three.git
-cd Portfolio_Three
+- git clone https://github.com/Asitha92/Portfolio_Three.git
+- cd Portfolio_Three
 
 ### 2. Install dependencies and run in local device
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 ## Set up environment variables
-VITE_APP_EMAILJS_SERVICE_ID=
-VITE_APP_EMAILJS_TEMPLATE_ID=
-VITE_APP_EMAILJS_PUBLIC_KEY=
+- VITE_APP_EMAILJS_SERVICE_ID=
+- VITE_APP_EMAILJS_TEMPLATE_ID=
+- VITE_APP_EMAILJS_PUBLIC_KEY=
 
 ## Vercel deployment
 1. Push your code to GitHub
