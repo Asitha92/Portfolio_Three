@@ -23,6 +23,7 @@ import {
 	threejs,
 	kim,
 	greg,
+	nodepilot,
 } from '../assets';
 
 export const navLinks = [
@@ -251,7 +252,36 @@ const projects = [
 			},
 		],
 		image: portfolio_1,
-		source_code_link: 'https://github.com/',
+		source_code_link: 'https://github.com/Asitha92/Portfolio_Three',
+	},
+	{
+		name: 'Node Pilot',
+		description:
+			'A visual workflow editor that lets users create, connect, and run node-based flows with AI actions.',
+		tags: [
+			{
+				name: 'react',
+				color:
+					'bg-gradient-to-t from-[#2f80ed] to-[#56ccf2] bg-clip-text text-transparent',
+			},
+			{
+				name: 'react flow',
+				color:
+					'bg-gradient-to-t from-[#11998e] to-[#38ef7d] bg-clip-text text-transparent',
+			},
+			{
+				name: 'tailwind.css',
+				color:
+					'bg-gradient-to-t from-[#ec008c] to-[#fc6767] bg-clip-text text-transparent',
+			},
+			{
+				name: 'deepseek',
+				color:
+					'bg-gradient-to-t from-[#f12711] to-[#f5af19] bg-clip-text text-transparent',
+			},
+		],
+		image: nodepilot,
+		source_code_link: 'https://github.com/Asitha92/NodePilot',
 	},
 ];
 

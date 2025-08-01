@@ -35,7 +35,7 @@ import omobio from './company/omobio.png';
 
 import ecommerce from './ecommerce.png';
 import portfolio_1 from './portfolio_1.png';
-import tripguide from './tripguide.png';
+import nodepilot from './nodepilot.png';
 
 import kim from './kim.png';
 import greg from './greg.png';
@@ -68,7 +68,7 @@ export {
 	omobio,
 	ecommerce,
 	portfolio_1,
-	tripguide,
+	nodepilot,
 	kim,
 	greg,
 };
